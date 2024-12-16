@@ -1,0 +1,17 @@
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.o
+.DS_Store
+*.out
+*/*.out
+*.out.**
+*.layout
+.objs
+bin
+obj
+Debug
+Release
+runtime
+
